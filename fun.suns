@@ -1,0 +1,5 @@
+fungsi room() ->  nyitak "hallo"
+fungsi start() -> nyitak "turu sek"
+
+start()
+room()
